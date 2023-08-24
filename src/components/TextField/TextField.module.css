@@ -1,0 +1,18 @@
+.text-field {
+  display: flex;
+  flex-direction: column;
+}
+
+.field {
+  width: 200px;
+  height: 41px;
+  border-radius: 10px;
+}
+
+.label {
+  margin-left: 10px;
+}
+
+.field-error {
+  border-color: red;
+}
